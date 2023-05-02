@@ -1,3 +1,4 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*_zcVnX2xGxMVgjkN7tlRMQ.gif)
 <h1 align="center">Hi 👋, I'm Kasetty Purushotham</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*H4cHks1eEdrW7Zlz.gif">
