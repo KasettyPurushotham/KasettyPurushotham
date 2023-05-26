@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kasettypurusho1" target="blank"><img src="https://img.shields.io/twitter/follow/kasettypurusho1?logo=twitter&style=for-the-badge" alt="kasettypurusho1" /></a> </p>
 
-- 🔭 I’m currently working on [Credit_EDA](https://github.com/KasettyPurushotham/Credit_EDA)
+- 🔭 I’m currently working on [student_performence](https://github.com/KasettyPurushotham/mlproject)
 
 - 🌱 I’m currently learning **Flask, Computer vision ,Deep Learning**
 
