@@ -15,13 +15,15 @@
 
 - 🤝 I’m looking for help with [SMS-ham-spam-Classification](https://github.com/KasettyPurushotham/SMS-ham-spam-Classification)
 
-- 👨‍💻 All of my projects are available at [https://kasettypurushotham.github.io/website/](https://kasettypurushotham.github.io/website/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kasettypurushotham.github.io/website/)
 
-- 📝 I regularly write articles on [https://kspnumpy.blogspot.com/](https://kspnumpy.blogspot.com/)
+- 📝 I regularly write articles on [Blogs](https://kspnumpy.blogspot.com/)
 
 - 💬 Ask me about **Python , Machine learning**
 
 - 📫 How to reach me **Kasettypurushotham@gmail.com**
+
+- 📄 Know about my experiences [Check my Resume ](https://www.canva.com/design/DAFf_Z2tPXE/dj_1xVA_p70uLmpGbfL_DQ/view?utm_content=DAFf_Z2tPXE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
